@@ -1,5 +1,6 @@
-# gittisak-lnc
-# README_SETUP_FULL
+https://rstr.in/wtjexky6vgwx87/my-library/Ts_xib7lj7j
+
+# gittisak-lnc README_SETUP_FULL
 
 ## สรุปงานที่จะทำ
 ไฟล์ที่รวมในโปรเจกต์:
